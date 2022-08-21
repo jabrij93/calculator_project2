@@ -25,8 +25,8 @@
     align-items: flex-end;
     justify-content: space-around;
     background-color: #384047;
-    width: 230px;
-    height: 80px;
+    width: 290px;
+    height: 90px;
     word-wrap: break-word;
     word-break: break-all;
     color: #747574;
@@ -38,12 +38,12 @@
 .numbers {
     display: flex;
     flex-wrap: wrap;
-    width: 240px;
+    width: 300px;
     font-family: 'Asap', sans-serif;
 }
 
 #clear {
-    width: 120px;
+    width: 150px;
     background-color: #272b2e;
     color: #7a451d;
     font-weight: bold;
@@ -54,7 +54,7 @@
 }
 
 #equal {
-    width: 120px;
+    width: 150px;
     background-color: #272b2e;
 }
 
@@ -63,7 +63,7 @@
 }
 
 button {
-    width: 60px;
+    width: 75px;
     background-color: #1b1e26;
     color: #f5f5f5;
     padding: 10px;
