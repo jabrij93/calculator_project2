@@ -48,6 +48,10 @@
     border: 2px solid #757f9a;
 }
 
+.numbers > button:hover {
+    background-color: #757f9a;
+}
+
 #clear {
     width: 175px;
     background-color: #272b2e;
@@ -55,8 +59,16 @@
     font-weight: bold;
 }
 
+#clear:hover{
+    background-color: #757f9a;
+}
+
 #delete {
     background-color: #272b2e;
+}
+
+#delete:hover {
+    background-color: #757f9a;
 }
 
 #equal {
@@ -64,8 +76,16 @@
     background-color: #272b2e;
 }
 
+#equal:hover {
+    background-color: #757f9a;
+}
+
 #plus, #minus, #multiply, #division {
     background-color: #272b2e;
+}
+
+#plus:hover, #minus:hover, #multiply:hover, #division:hover {
+    background-color: #757f9a;
 }
 
 button {
